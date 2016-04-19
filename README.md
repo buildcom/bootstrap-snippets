@@ -1,5 +1,3 @@
-# Living Direct Bootstrap Builder
+# Living Direct Bootstrap Snippets
 
-Click and drag snippets to build your own page.
-
-Hooray!
+Generic rows of Bootstrap content to speed up building processs.
